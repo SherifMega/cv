@@ -9,7 +9,6 @@
                         (matt brown)
 ---------------------------------------------------------------------------------
 */
-
 .msg {
   padding: 10px;
   background: #222;
@@ -211,4 +210,7 @@ a#pdf:hover {
   border-radius: 12px;
   padding: 10px;
   color: #fff;
+}
+.cv_icon{
+  color: red;
 }
